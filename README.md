@@ -1,7 +1,7 @@
 
 Test ejemplo
 
-<img <img width="828" alt="example spec" src="https://github.com/user-attachments/assets/546a8f02-6dd1-43e2-b0c5-d9f34ad9872a" />
+<img width="828" alt="example spec" src="https://github.com/user-attachments/assets/546a8f02-6dd1-43e2-b0c5-d9f34ad9872a" />
 
 Error de conexion en la prueba del login
 
